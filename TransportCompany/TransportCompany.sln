@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportCompany", "TransportCompany\TransportCompany.csproj", "{0512F64B-00F5-49BA-9613-7A396C075C0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportCompanyDataModels", "TransportCompanyDataModels\TransportCompanyDataModels.csproj", "{C57B4449-A725-4804-833D-7CE33965F001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportCompanyContracts", "TransportCompanyContracts\TransportCompanyContracts.csproj", "{8707D719-D7B3-4F64-8BBE-DE9C7014DD13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportCompanyBusinessLogic", "TransportCompanyBusinessLogic\TransportCompanyBusinessLogic.csproj", "{5FD7F1C8-0B2C-4AD4-91FD-A4475274FD3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportCompanyDatabaseImplements", "TransportCompanyDatabaseImplements\TransportCompanyDatabaseImplements.csproj", "{E421890B-5501-4A4D-931A-1B8139FDDB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportCompamyMongoDBImplementer", "TransportCompamyMongoDBImplementer\TransportCompamyMongoDBImplementer.csproj", "{5315CD03-FC5D-4ECB-9973-38989C1B02EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0512F64B-00F5-49BA-9613-7A396C075C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0512F64B-00F5-49BA-9613-7A396C075C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0512F64B-00F5-49BA-9613-7A396C075C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0512F64B-00F5-49BA-9613-7A396C075C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57B4449-A725-4804-833D-7CE33965F001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57B4449-A725-4804-833D-7CE33965F001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57B4449-A725-4804-833D-7CE33965F001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57B4449-A725-4804-833D-7CE33965F001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8707D719-D7B3-4F64-8BBE-DE9C7014DD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8707D719-D7B3-4F64-8BBE-DE9C7014DD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8707D719-D7B3-4F64-8BBE-DE9C7014DD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8707D719-D7B3-4F64-8BBE-DE9C7014DD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD7F1C8-0B2C-4AD4-91FD-A4475274FD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD7F1C8-0B2C-4AD4-91FD-A4475274FD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD7F1C8-0B2C-4AD4-91FD-A4475274FD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD7F1C8-0B2C-4AD4-91FD-A4475274FD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E421890B-5501-4A4D-931A-1B8139FDDB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E421890B-5501-4A4D-931A-1B8139FDDB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E421890B-5501-4A4D-931A-1B8139FDDB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E421890B-5501-4A4D-931A-1B8139FDDB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5315CD03-FC5D-4ECB-9973-38989C1B02EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5315CD03-FC5D-4ECB-9973-38989C1B02EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5315CD03-FC5D-4ECB-9973-38989C1B02EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5315CD03-FC5D-4ECB-9973-38989C1B02EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEBEE78-0520-4BC3-A684-3326238BD705}
+	EndGlobalSection
+EndGlobal
